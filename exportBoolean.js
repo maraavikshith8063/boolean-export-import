@@ -1,2 +1,2 @@
-const value = true;
-module.export = value;
+const valueS = true;
+module.exports = valueS;

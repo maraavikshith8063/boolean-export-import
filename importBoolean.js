@@ -1,2 +1,1 @@
-const value = require("./exportBoolean");
-console.log(value);
+const valueS = require("./exportBoolean");
